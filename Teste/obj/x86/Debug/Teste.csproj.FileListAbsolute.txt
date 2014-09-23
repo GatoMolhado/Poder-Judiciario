@@ -1,0 +1,110 @@
+C:\Users\hiago\AppData\Local\Temporary Projects\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\AppData\Local\Temporary Projects\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\AppData\Local\Temporary Projects\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Teste\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.UP.004\Desktop\Teste\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Teste\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.004\Desktop\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.004\Desktop\Teste\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Teste 0.02\Teste\obj\x86\Debug\Teste.exe
+E:\Teste 0.02\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste 0.02\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Teste 0.02\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste 0.02\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Teste 0.02\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Teste 0.02\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+E:\Poder Judiciário 0.03\Teste\obj\x86\Debug\Teste.exe
+E:\Poder Judiciário 0.03\Teste\obj\x86\Debug\Teste.pdb
+E:\Poder Judiciário 0.03\Teste\bin\Debug\Teste.exe
+E:\Poder Judiciário 0.03\Teste\bin\Debug\Teste.pdb
+E:\Poder Judiciário 0.03\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.UP.005\Desktop\Poder Judiciário 0.03\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.005\Desktop\Poder Judiciário 0.03\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.005\Desktop\Poder Judiciário 0.03\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.005\Desktop\Poder Judiciário 0.03\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.005\Desktop\Poder Judiciário 0.03\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Poder Judiciário 0.04\Teste\obj\x86\Debug\Teste.exe
+E:\Poder Judiciário 0.04\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.04\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.04\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.04\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.04\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.04\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.05\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.05\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.05\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.05\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.05\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.06\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.06\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.06\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.06\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.06\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.07\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.07\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.07\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.07\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.004\Desktop\Poder Judiciário 0.07\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.09\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.09\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.09\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.09\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.008\Desktop\Poder Judiciário 0.09\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.5\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.5\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.6\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.6\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.6\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.6\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.6\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.62\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.62\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.62\Teste\bin\Debug\Teste.exe
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.62\Teste\bin\Debug\Teste.pdb
+C:\Users\TEMP.UP.010\Desktop\Poder Judiciário 0.62\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.7\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.7\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.7\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.7\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.7\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.7 - Copia\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.7 - Copia\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.7 - Copia\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.7 - Copia\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.7 - Copia\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.9\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 - Copia\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 - Copia\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 - Copia\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 - Copia\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 - Copia\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 Dia 2\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 Dia 2\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 Dia 2\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 Dia 2\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9 Dia 2\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+E:\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\Teste.exe
+E:\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\Teste.pdb
+E:\Poder Judiciário 0.9.9\Teste\bin\Debug\Teste.exe
+E:\Poder Judiciário 0.9.9\Teste\bin\Debug\Teste.pdb
+E:\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.UP.012\Desktop\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\Teste.exe
+C:\Users\TEMP.UP.012\Desktop\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\TEMP.UP.012\Desktop\Poder Judiciário 0.9.9\Teste\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hiago\Desktop\Poder Judiciário 0.9.9.9\Teste\obj\x86\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9.9.9\Teste\obj\x86\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9.9.9\Teste\bin\Debug\Teste.exe
+C:\Users\hiago\Desktop\Poder Judiciário 0.9.9.9\Teste\bin\Debug\Teste.pdb
+C:\Users\hiago\Desktop\Poder Judiciário 0.9.9.9\Teste\obj\x86\Debug\Teste.csprojResolveAssemblyReference.cache
